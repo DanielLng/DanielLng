@@ -2,6 +2,7 @@
 
 I´m Web Developer with 2 years of experience in web application development, working on both front-end and back- end . I have developed multiple solutions for small businesses in the region, using technologies such as HTML, CSS, JavaScript for creating responsive interfaces, and PHP and Node.js to implement server-side solutions. I specialize in developing efficient and secure applications, applying best practices to optimize performance and improve user experience.
 
+> Cambiando al mundo una línea a la vez. 
 
 You can contact me at [daniel.m.longoria@gmail.com](mailto:daniel.m.longoria@gmail.com)
 
