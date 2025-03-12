@@ -4,9 +4,9 @@ I´m Web Developer with 2 years of experience in web application development, wo
 
 > Cambiando al mundo una línea a la vez. 
 
-You can contact me at [daniel.m.longoria@gmail.com](mailto:daniel.m.longoria@gmail.com)
+<p align="center"> [daniel.m.longoria@gmail.com](mailto:daniel.m.longoria@gmail.com) </p>
 
-# Skills
+## Skills
 
 
 <p align="center">
